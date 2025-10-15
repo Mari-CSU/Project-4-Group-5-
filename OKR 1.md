@@ -31,7 +31,7 @@ In addition, it is important to consult with actual mental health professionals 
 
 ## Ethical Impact(s)/Issues
 
-There is an inherent risk when trying to design an AI companion, especially one that is reliant on trying to improve mental health. There are numerous real world examples where people have become overly attached to AI, often using them as supplements for real world interaction.  
+There is an inherent risk when trying to design an AI companion, especially one that is reliant on trying to improve mental health. There are numerous real world examples where people have become overly attached to AI, often using them as supplements for real world interaction. One such example being the ELIZA effect.  
 
 IBM (2023). *The ELIZA effect: Why people anthropomorphize AI.* IBM. Retrieved October 13, 2025 from [https://www.ibm.com/think/articles/eliza-effect](https://www.ibm.com/think/articles/eliza-effect).  
 
