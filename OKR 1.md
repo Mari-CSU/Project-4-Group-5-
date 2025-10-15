@@ -1,6 +1,6 @@
-\# Project 3
+# Project 3
 
-\## Company Summary
+## Company Summary
 
 ● Companon is an anonymous AI companion designed to provide users with a
 safe space to vent and to receive consultation for their mental
