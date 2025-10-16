@@ -1,8 +1,4 @@
-# Project 3
 
-## Company Summary
-
-Companon is an anonymous AI companion designed to provide users with a safe space to vent and to receive consultation for their mental wellbeing. Through an intuitive chat window, Companon will simulate the ease of texting a close friend, all while guiding users to strong mental health resources. Companon is NOT a replacement for therapy, but simply acts as a gateway for better mental health services. This means providing links to mental health services, such as local therapists, crisis text lines, and articles regarding each user’s specific problem. Companon focuses on providing the user with an anonymous experience, so as to protect them from potential leaks. Chat logs would remain stored within our internal servers, it is imperative that this data remains anonymous. While no direct personal information will be stored, anonymous data will be collected to improve the functionality of the system. This helps ensure the personal safety of each one of our users, bridging the gap between vulnerable people and professional care networks.  
 
 ---
 
@@ -32,8 +28,6 @@ In addition, it is important to consult with actual mental health professionals 
 ## Ethical Impact(s)/Issues
 
 There is an inherent risk when trying to design an AI companion, especially one that is reliant on trying to improve mental health. There are numerous real world examples where people have become overly attached to AI, often using them as supplements for real world interaction. One such example being the ELIZA effect.  
-
-IBM (2023). *The ELIZA effect: Why people anthropomorphize AI.* IBM. Retrieved October 13, 2025 from [https://www.ibm.com/think/articles/eliza-effect](https://www.ibm.com/think/articles/eliza-effect).  
 
 The ELIZA effect is based on a phenomenon where computer scientist Joseph Weizenbaum observed that people became overly attached to a chatbot program named ELIZA. One of the program scripts was designed to emulate a psychotherapist, where the chatbot would respond either generically or rephrase whatever the user typed. While simple, people did end up forming an attachment with the program, often getting deeply personal with the chatbot.  
 
@@ -87,8 +81,3 @@ As stated in the OKR, the limits of the AI will be rigorously tested against the
 
 ---
 
-## Sources
-
-Stöffelbauer, A. (2023). *How Large Language Models Work: From zero to ChatGPT.* Data Science at Microsoft (Medium). Retrieved October 13, 2025 from [https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f)  
-
-Bergmann, D. (2023). *ELIZA effect at work: Avoiding emotional attachment to AI coworkers.* IBM Think. Retrieved October 13, 2025 from [https://www.ibm.com/think/insights/eliza-effect-avoiding-emotional-attachment-to-ai](https://www.ibm.com/think/insights/eliza-effect-avoiding-emotional-attachment-to-ai)
