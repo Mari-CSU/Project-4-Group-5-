@@ -2,7 +2,7 @@
 
 ---
 
-## (1.C.1.1) OKR 1 
+## (1.C.1.1) OKR 1 (User Safety)
 
 Companon is designed to ensure the safety of users above all else. It is important that the system is able to recognize when a user is in a high-risk mental state and to provide the appropriate resources. Key stakeholders consist of primarily young adults and, as they are the most at-risk group for adverse mental health. Secondary stakeholders also include crisis hotlines, therapists, and mental-health advocates. Many young adults lack the financial resources for adequate mental health services, so Companon is designed to help link these two groups together.  
 
