@@ -3,3 +3,67 @@ The platform will feature a user-facing privacy dashboard that allows individual
 All team members will complete certified data privacy training prior to launch to ensure ethical handling of sensitive information. 
 A third-party privacy audit will be conducted to verify that all protections meet industry standards, with the goal of passing without any critical findings.
 By prioritizing transparency, encryption, and user autonomy, Companon aims to build trust and create a safe space where users feel confident seeking help.
+
+Metrics
+
+
+Metric 1: Privacy Dashboard Completion Rate
+ Definition: Percentage of planned privacy features (e.g., data download, deletion, consent toggles) implemented by launch.
+ Target: 100% completion of 10 core features.
+ Experiment: Create a feature checklist and track progress weekly during development sprints. Each feature will be marked as “Not Started,” “In Progress,” or “Completed.” At launch, calculate the completion rate using:
+ (Completed Features ÷ Total Features) × 100%
+
+ Metric 2: Team Privacy Training Completion
+ Definition: Percentage of team members who complete certified privacy training before launch.
+ Target: 100% of team members certified with ≥80% test score.
+ Experiment: Enroll all team members in a GDPR or HIPAA-compliant online course. Track completion through the learning platform and verify success via certificates and test scores.
+Metric 3: Privacy Audit Pass Rate
+ Definition: Successful completion of a third-party privacy audit with zero critical findings.
+ Target: 100% pass rate with no critical issues.
+ Experiment: Hire an external auditor to evaluate data storage, encryption, and access controls. Use a severity scale (Critical, Major, Minor). Success = zero critical issues and full compliance.
+
+Metric 4: User Trust Score (Post-Launch Survey)
+ Definition: Average user trust score from a post-launch survey (scale 0–100%).
+ Target: ≥90% satisfaction score.
+ Experiment: Conduct a survey with 300 users. Sample questions:
+ – On a scale of 1–10, how much do you trust Companon to protect your data?
+ – Do you feel in control of your personal information? (Yes/No)
+– Rate the privacy dashboard features from 1–10.
+ Average scores will be converted to a percentage.
+
+Metric 5: Privacy Concern Resolution Time
+ Definition: Percentage of user-submitted privacy concerns resolved within 72 hours.
+ Target: 90% resolution within 72 hours.
+ Experiment: Implement a feedback form for privacy concerns. Timestamp each submission and track resolution through a ticketing system. Calculate weekly resolution rate.
+Companon is to ensure the highest level of privacy and security for storing user information carries significant ethical implications. Because the platform is designed to support vulnerable young adults seeking mental health resources, any misuse or breach of sensitive data could result in emotional harm, loss of trust, or withdrawal from help-seeking behavior. One major ethical issue is the potential for data to be repurposed or shared without full user consent, even if anonymized. This undermines user autonomy and violates the expectation of confidentiality.
+A real-world example of this ethical concern is the Crisis Text Line controversy, where anonymized user data was shared with a for-profit partner to train algorithms. Although the data was stripped of identifiers, critics argued that the practice violated the trust of users in crisis. 
+“Even if data is anonymized, using it for commercial purposes without explicit consent undermines the ethical foundation of mental health services.”
+ —  (2022). Crisis Text Line Data Sharing Controversy. ACM Digital Library.  Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency | ACM Other conferences
+
+Scenarios where ethical issues may arise include:
+A user deletes their data, but backend logs retain fragments, violating their right to be forgotten.
+A third-party audit reveals weak encryption, exposing sensitive disclosures.
+A team member shares anonymized data for research without full consent.
+A user feels monitored or judged by automated systems, leading to emotional distress.
+Expected Ethical Impact Risk Table
+Stakeholder| Financial Risk |Privacy Risk| Conflicting Interest| Violation of Rights|
+Young Adult Users |Low| High| Mid |High 
+Crisis Hotlines |Low |Mid |Low |Mid 
+Therapists |Mid| Low| Mid |Low 
+Mental Health Advocates |Low |Mid |Low |Mid 
+Companon Team |High |Mid |High |Mid 
+
+Young Adult Users: Financial risk is low, but privacy and rights violations are high due to the sensitivity of their data. Conflicting interest is mid, as users want anonymity while the platform may seek analytics.
+ Crisis Hotlines: Privacy risk is mid due to shared data. Rights violations are mid if data is mishandled.
+ Therapists: Financial risk is mid if data misuse affects their practice. Privacy and rights risks are low due to professional standards.
+ Mental Health Advocates: Privacy and rights risks are mid if advocacy is used to justify data sharing.
+ Companon Team: Financial and conflicting interest risks are high due to pressure to grow or monetize. Privacy and rights risks are mid if safeguards fail.
+
+Ethical Safeguards
+To reduce ethical risks, Companon will implement three key safeguards:
+Safeguard 1: Transparent Privacy Dashboard
+ Users will have full control over their data, including download, deletion, and consent toggles. This will be designed by ethical UX experts and mental health advisors. Effectiveness will be measured by dashboard usage rates and deletion success logs.
+Safeguard 2: Ethics Advisory Board
+ A rotating panel of mental health professionals, data ethicists, and young adult representatives will review platform decisions quarterly. Members will be recruited through university partnerships and nonprofit networks. Effectiveness will be measured by the number of flagged issues resolved and annual trust surveys.
+Safeguard 3: Consent-First Data Practices
+ No data will be shared or analyzed without explicit, informed consent. Legal experts and compliance officers will design the consent forms. Effectiveness will be measured by opt-in rates, audit logs, and user feedback on clarity.
