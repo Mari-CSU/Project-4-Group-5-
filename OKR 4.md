@@ -1,16 +1,16 @@
-## OKR 3 – Wahid Salemi
+## OKR 4 – Wahid Salemi
 
 ## 1.C. Objective
-Develop the **SafeRide** app — an AI-driven safety system that monitors driver alertness and prevents distracted or unsafe driving using phone sensors and real-time feedback.
+Develop **Companon**, an anonymous AI mental health companion that provides empathetic support while protecting user privacy and promoting ethical data use.
 
 ### 1.C.1 Key Result 1
-Achieve at least **90% detection accuracy** for driver distractions and tiredness during test drives.
+Design and deploy a secure, anonymous chat interface that allows users to express emotions safely without revealing personal information.
 
 ### 1.C.2 Key Result 2
-Reach **85% positive driver feedback** from weekly satisfaction surveys rating the alert and notification system.
+Integrate AI empathy modeling to ensure at least **90% accuracy** in detecting emotional tone and providing appropriate, supportive responses.
 
 ### 1.C.3 Key Result 3
-Successfully log and store driving behavior data securely on a cloud server, with user control over who can access their reports (e.g., insurance or family).
+Implement strong data privacy safeguards — full encryption, anonymized logs, and transparent consent options for data usage.
 
 ### 1.C.4 Key Result 4
-Implement and test privacy safeguards — including encryption, consent-based data sharing, and transparency alerts during active monitoring.
+Conduct user trust testing with at least **50 participants**, targeting **85% satisfaction** in emotional support quality, privacy confidence, and overall safety.
