@@ -2,13 +2,13 @@
 
 ---
 
-## OKR 1
+## OKR 1 (1.C.1.1)
 
 Companon is designed to ensure the safety of users above all else. It is important that the system is able to recognize when a user is in a high-risk mental state and to provide the appropriate resources. Key stakeholders consist of primarily young adults and, as they are the most at-risk group for adverse mental health. Secondary stakeholders also include crisis hotlines, therapists, and mental-health advocates. Many young adults lack the financial resources for adequate mental health services, so Companon is designed to help link these two groups together.  
 
 ---
 
-## Metric(s) with Experimentation
+## Metric(s) with Experimentation (1.C.1.2)
 
 The main goal of OKR 1 is to provide a user with adequate care based on the responses they share with the chat bot. A question then arises about how the AI will be able to determine a high-risk user. To do this, it is important to understand how an AI (really an LLM in this scenario) determines “good” and “bad” input.  
 
@@ -25,7 +25,7 @@ In addition, it is important to consult with actual mental health professionals 
 
 ---
 
-## Ethical Impact(s)/Issues
+## Ethical Impact(s)/Issues (1.C.1.3)
 
 There is an inherent risk when trying to design an AI companion, especially one that is reliant on trying to improve mental health. There are numerous real world examples where people have become overly attached to AI, often using them as supplements for real world interaction. One such example being the ELIZA effect.  
 
@@ -71,7 +71,7 @@ There is a conflicting interest between the company and the customers. The compa
 
 ---
 
-## Ethical Safeguards
+## Ethical Safeguards (1.C.1.4)
 
 Who would design the safeguard?  
 
